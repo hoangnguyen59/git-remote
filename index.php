@@ -1,1 +1,3 @@
-hello adasdasdasdads
+<?php
+echo"hoa hoc sinh"
+?>
